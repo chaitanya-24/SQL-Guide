@@ -1,6 +1,6 @@
 # Comprehensive SQL Topics for Data Professionals
 
-## 1. Foundational Concepts
+## [1. Foundational Concepts](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-01.md)
 ### 1.1 Database Fundamentals
 - Database types
   - Relational Databases
