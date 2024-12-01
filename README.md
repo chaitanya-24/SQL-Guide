@@ -25,7 +25,7 @@
   - Logical Modeling
   - Physical Modeling
 
-## 2. Basic SQL Operations
+## [2. Basic SQL Operations](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-02.md)
 ### 2.1 Data Retrieval
 - SELECT Statement
 - Filtering (WHERE clause)
