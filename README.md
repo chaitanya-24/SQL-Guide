@@ -1,3 +1,13 @@
+<div align="center" style="font-family: Arial, sans-serif; margin: 20px; text-align: center;">
+    <a target="_blank" href="https://www.linkedin.com/in/chaitanyasawant">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" style="height: 30px; margin: 5px;">
+    </a>
+    <a target="_blank" href="https://twitter.com/chaitanya_42">
+        <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" style="height: 30px; margin: 5px;">
+    </a>
+</div>
+
+
 # Comprehensive SQL Topics for Data Professionals
 
 ## [1. Foundational Concepts](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-01.md)
