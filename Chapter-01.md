@@ -1,5 +1,3 @@
-# **Comprehensive SQL Topics for Data Professionals**
-
 ## **Chapter 1: Foundational Concepts**
 
 ---
