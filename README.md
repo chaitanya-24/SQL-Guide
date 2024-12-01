@@ -38,7 +38,7 @@
 - DELETE
 - MERGE (Upsert operations)
 
-## 3. Advanced Querying Techniques
+## [3. Advanced Querying Techniques](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-03.md)
 ### 3.1 Joins
 - INNER JOIN
 - LEFT JOIN
