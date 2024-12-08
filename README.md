@@ -69,7 +69,7 @@
 - INTERSECT
 - EXCEPT (MINUS)
 
-## 4. Aggregation and Analytical Functions
+## [4. Aggregation and Analytical Functions](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-04.md)
 ### 4.1 Aggregate Functions
 - COUNT()
 - SUM()
@@ -96,7 +96,7 @@
 - Running totals
 - Percentile calculations
 
-## 5. Data Transformation
+## [5. Data Transformation](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-05.md)
 ### 5.1 String Manipulation
 - Concatenation
 - Substring extraction
@@ -119,7 +119,7 @@
 - Converting between data types
 - Handling NULL values
 
-## 6. Performance Optimization
+## [6. Performance Optimization](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-06.md)
 ### 6.1 Indexing Strategies
 - B-Tree Indexes
 - Bitmap Indexes
@@ -138,7 +138,7 @@
 - Sharding
 - Denormalization techniques
 
-## 7. Advanced SQL Features
+## [7. Advanced SQL Features](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-07.md)
 ### 7.1 Common Table Expressions (CTEs)
 - Recursive CTEs
 - Multiple CTEs
@@ -156,7 +156,7 @@
 - Trigger use cases
 - Trigger limitations
 
-## 8. Data Science and Machine Learning SQL
+## [8. Data Science and Machine Learning SQL](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-08.md)
 ### 8.1 Statistical Functions
 - Variance and Standard Deviation
 - Correlation calculations
@@ -173,7 +173,7 @@
 - Train-test split strategies
 - Data preprocessing in SQL
 
-## 9. Big Data and Distributed SQL
+## [9. Big Data and Distributed SQL](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-09.md)
 ### 9.1 Distributed Query Processing
 - Hive
 - Spark SQL
@@ -185,7 +185,7 @@
 - Columnar storage
 - Query federation
 
-## 10. Data Governance and Security
+## [10. Data Governance and Security](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-10.md)
 ### 10.1 Access Control
 - GRANT and REVOKE
 - Role-based access control
@@ -201,7 +201,7 @@
 - Data masking
 - Audit logging
 
-## 11. NoSQL and NewSQL Interactions
+## [11. NoSQL and NewSQL Interactions](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-11.md)
 ### 11.1 SQL with NoSQL
 - JSON querying
 - Document databases
@@ -212,7 +212,7 @@
 - Multi-model databases
 - Data synchronization strategies
 
-## 12. Emerging SQL Technologies
+## [12. Emerging SQL Technologies](https://github.com/chaitanya-24/SQL-Guide/blob/master/Chapter-12.md)
 ### 12.1 Modern SQL Innovations
 - Time-travel queries
 - Geospatial extensions
